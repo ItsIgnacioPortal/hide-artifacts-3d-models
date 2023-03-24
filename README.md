@@ -1,4 +1,4 @@
-# hide-artifacts-3d-models
+# Hide Artifacts mod 3D models
 A minecraft texture pack that hides the 3D models of the Artifacts mod
 
 ![icon](src/pack.png)
